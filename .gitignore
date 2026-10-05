@@ -29,3 +29,5 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+training_centre.db
+__pycache__/
